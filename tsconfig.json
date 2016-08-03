@@ -1,0 +1,19 @@
+{
+    "compileOnSave": false,
+    "compilerOptions": {
+        "target": "es5",
+        "module": "commonjs",
+        "noImplicitAny": true,
+        "noImplicitReturns": true,
+        "experimentalDecorators": true,
+        "suppressImplicitAnyIndexErrors": true,
+        "moduleResolution": "node",
+        "noUnusedLocals": true,
+        "pretty": true,
+        "declaration": true
+    },
+    "exclude": [
+        "node_modules",
+        "doc"
+    ]
+}

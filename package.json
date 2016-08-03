@@ -1,0 +1,33 @@
+{
+  "name": "@sparrow/d-injector",
+  "version": "0.0.1",
+  "description": "Tiny dependency injection module",
+  "main": "index.js", 
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Madhust/d-injector.git"
+  },
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+    "typescript": "^2.0.0",
+    "typedoc": "^0.4.4",
+    "gulp":"*",
+    "gulp-typescript": "2.13.6",
+    "gulp-typedoc":"^2.0.0"     
+  },
+  "author": {
+    "name": "Madhu Sudhanan P",
+    "email": "madhusudhananit@gmail.com",
+    "url": "http://essentialjavascript.wordpress.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Madhust/d-injector/issues"
+  },
+  "homepage": "https://github.com/Madhust/d-injector#readme",
+  "keywords": [
+    "di", "injection", "dependency injection", "injector", "d-injector" 
+  ]
+}
