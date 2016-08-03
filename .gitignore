@@ -1,3 +1,4 @@
 *.js
 doc
 node_modules
+!gulpfile.js
